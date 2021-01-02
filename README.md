@@ -7,3 +7,9 @@ This could easily be changed to include "special" chars and numbers too, I am up
 The useful part is where it determines if video link exists - without using the actual (paid) YouTube API.
 
 The youtube video had a nitro link in its description.
+
+
+SPECS
+It took two minutes for the script to find the code.
+Making the script took 20 minutes.
+Video was found on January 2nd 2021 at 7:22 PM CET
