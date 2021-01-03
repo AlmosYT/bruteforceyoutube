@@ -13,3 +13,5 @@ SPECS
 It took two minutes for the script to find the code.
 Making the script took 20 minutes.
 Video was found on January 2nd 2021 at 7:22 PM CET
+
+Video: https://youtu.be/9-7JswmWRsY
